@@ -1,4 +1,4 @@
-# binance_spot
+# binance_spot_dart (forked from AmauryBuguet/binance_spot)
 
 This is an unofficial Dart wrapper for Binance SPOT API.  
 For now it includes market, trade, subaccount, and fiat endpoints, as well as support for market and user data streams.  
